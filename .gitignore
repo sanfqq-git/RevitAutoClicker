@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# Revit temp / cache (可选)
+*.log
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
